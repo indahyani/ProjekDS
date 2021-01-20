@@ -46,8 +46,10 @@ table_drugs = function() {
 # USER INTERFACE 
 
 ui = fluidPage(
-    title = "Sentiment Analysis of Drugs Ranking Prediction App",
-    headerPanel("Sentiment Analysis of Drugs Ranking Prediction App"),
+    title = "Analisis Sentimen Terhadap  Aplikasi Klasifikasi rangking obat menggunakan Metode Lexicon based
+",
+    headerPanel("Analisis Sentimen Terhadap  Aplikasi Klasifikasi rangking obat menggunakan Metode Lexicon based
+"),
     
     fluidRow(
         column(
